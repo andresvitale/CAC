@@ -412,13 +412,10 @@ footer {
         margin-left: 5px;
     }
 
-    .sectionOradores{
-        height: 205vh;
-    }
-
     .padreCards {
         flex-wrap: nowrap;
         flex-direction: column;
+        padding: 45px;
     }
 
     .card {
